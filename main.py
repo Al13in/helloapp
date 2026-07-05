@@ -18,3 +18,5 @@ def greet_black():
 
 if __name__ == "__main__":
     say_hello()
+    greet_white()
+    greet_black()
